@@ -46,7 +46,7 @@ npm publish
 
 If everything goes well it will show your package name with version.
 
-Test you package by running the following command.
+Test your package by running the following command.
 
 ```
 npm install <your package name>
