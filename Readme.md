@@ -28,7 +28,7 @@ npm login
 provide the respective details and it will send a one-time password to registered email for verification.
 
 ---
-
+ 
 ### Step 3
 
 ## Creating a package.json
@@ -40,6 +40,7 @@ npm init
 ```
 
 This will generate a package.json provide a unique package name and respective details and other fields are optional
+
 
 ---
 
